@@ -1,0 +1,8 @@
+name: Man10AdvancementPlugin
+version: 1.0
+main: man10advancementplugin.man10advancementplugin.Man10Advancement
+api-version: 1.17
+
+depend:
+  - Autorank
+  - Essentials
